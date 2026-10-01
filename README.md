@@ -1,2 +1,2 @@
 # Lightspeed-WooCommerce-Sync
-Sync Lightspeed and WooCommerce with SKUPlugs to manage products, inventory, and orders with less manual work.
+Simplify your retail operations with [**Lightspeed WooCommerce sync**](https://skuplugs.com/lightspeed-woocommerce-integration/) using SKUPlugs. Connect Lightspeed with WooCommerce to keep products, inventory, prices, orders, and variations updated across both platforms. Reduce manual data entry, avoid inventory mismatches, and manage your online and physical stores more efficiently. SKUPlugs supports Lightspeed R-Series and X-Series, making integration simple without complex coding. Start your 15-day free trial today and explore easier Lightspeed WooCommerce synchronization with no credit card required.
